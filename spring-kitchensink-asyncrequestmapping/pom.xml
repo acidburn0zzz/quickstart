@@ -40,7 +40,7 @@
     <properties>
 
         <!-- Third Party Spring dependencies -->
-        <version.h2db>1.4.190</version.h2db>
+        <version.h2db>2.1.210</version.h2db>
     </properties>
 
     <dependencyManagement>
