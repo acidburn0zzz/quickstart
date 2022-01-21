@@ -39,7 +39,7 @@
 
     <properties>
         <!-- Third Party Spring dependencies -->
-        <version.h2db>1.4.190</version.h2db>
+        <version.h2db>2.1.210</version.h2db>
         <version.jackson>2.6.3</version.jackson>
         <version.json.path>2.0.0</version.json.path>
     </properties>
