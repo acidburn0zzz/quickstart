@@ -41,7 +41,7 @@
 
     <properties>
         <!-- Other dependency versions -->
-        <version.org.apache.wicket>7.3.0</version.org.apache.wicket>
+        <version.org.apache.wicket>7.18.0</version.org.apache.wicket>
     </properties>
 
     <modules>
