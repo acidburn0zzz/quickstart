@@ -29,7 +29,7 @@
 
     <properties>
         <!-- json version -->
-        <version.org.json>20150729</version.org.json>
+        <version.org.json>20231013</version.org.json>
     </properties>
 
 
